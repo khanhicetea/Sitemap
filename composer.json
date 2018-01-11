@@ -1,5 +1,5 @@
 {
-	"name": "thepixeldeveloper/sitemap",
+	"name": "khanhicetea/php-sitemap",
 	"type": "library",
 	"description": "XML sitemap generation",
 	"keywords": ["sitemap", "xml"],
